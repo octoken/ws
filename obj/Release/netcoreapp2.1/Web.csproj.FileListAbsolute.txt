@@ -1,0 +1,49 @@
+D:\Projects\Prove Token (PROVE)\Web\Web\bin\Release\netcoreapp2.1\Web.deps.json
+D:\Projects\Prove Token (PROVE)\Web\Web\bin\Release\netcoreapp2.1\Web.runtimeconfig.json
+D:\Projects\Prove Token (PROVE)\Web\Web\bin\Release\netcoreapp2.1\Web.runtimeconfig.dev.json
+D:\Projects\Prove Token (PROVE)\Web\Web\bin\Release\netcoreapp2.1\Web.dll
+D:\Projects\Prove Token (PROVE)\Web\Web\bin\Release\netcoreapp2.1\Web.pdb
+D:\Projects\Prove Token (PROVE)\Web\Web\bin\Release\netcoreapp2.1\Web.Views.dll
+D:\Projects\Prove Token (PROVE)\Web\Web\bin\Release\netcoreapp2.1\Web.Views.pdb
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.csprojAssemblyReference.cache
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.AssemblyInfo.cs
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.TagHelpers.input.cache
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.TagHelpers.output.cache
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.RazorCoreGenerate.cache
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cs
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.Views.pdb
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.dll
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.pdb
+D:\Projects\Prove Token (PROVE)\Web\Web\obj\Release\netcoreapp2.1\Web.csproj.CopyComplete
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\appsettings.Development.json
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\appsettings.json
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\Web.deps.json
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\Web.runtimeconfig.json
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\Web.runtimeconfig.dev.json
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\Web.dll
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\Web.pdb
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\Web.Views.dll
+D:\Personal\Daps\ProveToken\provetoken.io\bin\Release\netcoreapp2.1\Web.Views.pdb
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.csprojAssemblyReference.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.AssemblyInfoInputs.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.AssemblyInfo.cs
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.csproj.CoreCompileInputs.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.RazorAssemblyInfo.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.RazorAssemblyInfo.cs
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.TagHelpers.input.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.TagHelpers.output.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.RazorCoreGenerate.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.RazorTargetAssemblyInfo.cs
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.Views.pdb
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.dll
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.pdb
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.genruntimeconfig.cache
+D:\Personal\Daps\ProveToken\provetoken.io\obj\Release\netcoreapp2.1\Web.csproj.CopyComplete
